@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'Count.dart';
-import 'Select.dart';
-import 'god_Count.dart';
-import 'tutu1.dart';
+import 'Pages/mafia/Count.dart';
+import 'Pages/Select.dart';
+import 'Pages/god_father/god_Count.dart';
+import 'Pages/loading.dart';
 
 void main() {
   runApp(MaterialApp(
