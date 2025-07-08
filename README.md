@@ -2,17 +2,17 @@
 
 ![Logo](assets/io.png)
 
-Welcome to **Mafia Game Manager**, a Flutter-based Android application that helps you effortlessly organize and manage the popular party game *Mafia*. Whether you're a game master or a player, this app simplifies role assignment, game progression, and player management with an intuitive UI.
+Welcome to **Mafia Game Manager**, a Flutter-based Android application that helps you effortlessly organize and manage the popular party game *Mafia*. Whether you're a game master or a player, this app simplifies role assignment, game progression, and player management with a beautiful UI.
 
 ---
 
 ## 🌐 Features
 
-- ✉️ Easy role assignment (Mafia, Doctor, Detective, Villagers, etc.)
-- ⏳ Automatic night/day cycle handling
-- ✍️ Track votes and game events
-- 🧑‍🎓 Customizable player list with names and avatars
-- 📊 Game summary and history log
+- 🧛‍♂️ Has two scenarios: Mafia and Godfather.
+- 📖 All roles are explained in it.
+- 🌐 Has many and varied roles to choose from to play.
+- 🧑‍🎓 Customizable player list with names
+- 🔫 Ability to expel game members and contains the final stage card
 - 🌟 Clean, responsive UI built with Flutter
 
 ---
@@ -22,6 +22,14 @@ Welcome to **Mafia Game Manager**, a Flutter-based Android application that help
 ### Prerequisites
 - Flutter SDK: [Install Flutter](https://flutter.dev/docs/get-started/install)
 - Android Studio or VSCode with Flutter plugin
+- Libraries:
+  provider: ^6.0.5
+  stop_watch_timer: ^2.0.0
+  lottie: ^2.3.1
+  double_back_to_close_app: ^2.1.0
+  responsive_grid_list: ^1.3.2
+  cupertino_icons: ^1.0.2
+
 
 ### Installation
 ```bash
