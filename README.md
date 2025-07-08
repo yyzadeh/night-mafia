@@ -1,6 +1,6 @@
 # Mafia Game Manager - Flutter App
 
-![Logo](io.png)
+![Logo](assets/io.png)
 
 Welcome to **Mafia Game Manager**, a Flutter-based Android application that helps you effortlessly organize and manage the popular party game *Mafia*. Whether you're a game master or a player, this app simplifies role assignment, game progression, and player management with an intuitive UI.
 
