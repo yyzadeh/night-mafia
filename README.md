@@ -54,22 +54,19 @@ flutter run
 
 ## 📘 Screenshots
 
-*(You can add screenshots here)*
+<p align="center">
+  <img src="Screenshots/3.jpg" width="30%" />
+  <img src="Screenshots/1.jpg" width="30%" />
+  <img src="Screenshots/2.jpg" width="30%" />
+</p>
 
 ---
 
 ## 🎓 Tech Stack
 - **Flutter** & **Dart**
-- State management: `Provider` / `Riverpod` / `Bloc` *(update according to your usage)*
+- State management: `Provider` / *(update according to your usage)*
 - Material Design
-
----
-
-## 🚧 Roadmap
-- [ ] Add multiplayer support
-- [ ] Voice control for game master
-- [ ] Export game log to PDF
-- [ ] Dark mode UI
+- Work with Lottie animations
 
 ---
 
@@ -78,15 +75,10 @@ Pull requests are welcome! Feel free to open issues for any bugs or feature sugg
 
 ---
 
-## 🚫 License
-MIT License. See `LICENSE` file for details.
-
----
-
 ## 📲 Contact
 For any questions, feel free to reach out:
-- Email: your.email@example.com
-- GitHub: [your-username](https://github.com/your-username)
+- Email: yousef.yousefian.85@gmail.com
+- GitHub: [Yousef Yousefianzadeh](https://github.com/yyzadeh)
 
 ---
 
