@@ -22,13 +22,13 @@ Welcome to **Mafia Game Manager**, a Flutter-based Android application that help
 ### Prerequisites
 - Flutter SDK: [Install Flutter](https://flutter.dev/docs/get-started/install)
 - Android Studio or VSCode with Flutter plugin
-- Libraries:
-  provider: ^6.0.5
-  stop_watch_timer: ^2.0.0
-  lottie: ^2.3.1
-  double_back_to_close_app: ^2.1.0
-  responsive_grid_list: ^1.3.2
-  cupertino_icons: ^1.0.2
+- Libraries :
+  provider: ^6.0.5 |
+  stop_watch_timer: ^2.0.0 |
+  lottie: ^2.3.1 |
+  double_back_to_close_app: ^2.1.0 |
+  responsive_grid_list: ^1.3.2 |
+  cupertino_icons: ^1.0.2 |
 
 
 ### Installation
@@ -43,12 +43,13 @@ flutter run
 
 ## 💡 How to Play with the App
 
-1. Create a new game session
-2. Add players and assign roles
-3. Start the game and follow on-screen instructions
-4. Use the control panel to manage votes, night actions, and eliminations
-5. View the history log to keep track of events
-
+1. Choose your desired scenario.
+2. Select player numbers.
+3. Enter all player names.
+4. Read the introduction and choose roles.
+5. Enhance the scenario's interest by assigning the chosen roles.
+6. Show each player's role for theme.
+7. Go next page and manage the game.
 ---
 
 ## 📘 Screenshots
